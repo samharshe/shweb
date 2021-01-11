@@ -12,13 +12,13 @@ There's Treasure Everywhere by Bill Watterson
 Attack of the Deranged Mutant Killer Monster SNOW GOONS by Bill Watterson
 The Authoratative Calvin and Hobbes by Bill Watterson
 The Indespensablle Calvin and Hobbes by Bill Watterson
-This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life by David Foster Wallace 
-String Theory: on Tennis by David Foster Wallace
-Consider the Lobster and Other Essays by David Foster Wallace
-The Captain Class: A New Theory of Leadership by Sam Walker
-Why We Sleep: Unlocking the Power of Sleep and Dreams by Matthew Walker
-The Bhagavad Gita by nnn
-Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance
+This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life | David Foster Wallace 
+String Theory: David Foster Wallace on Tennis | 
+Consider the Lobster and Other Essays | David Foster Wallace
+The Captain Class: A New Theory of Leadership | Sam Walker
+Why We Sleep: Unlocking the Power of Sleep and Dreams | Matthew Walker
+The Bhagavad Gita | 
+Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future | Ashlee Vance
 The Art of the Short Game: Tour-Tested Secrets for Getting Up and Down by Stan Utley and Matthew Rudy
 The Art of War by Sun Tzu
 Astrophysics for People in a Hurry by Neil DeGrasse Tyson
@@ -45,9 +45,10 @@ Revolver: A Menacing Stranger. Stolen Gold. And a Loaded Gun. by Marcus Sedgwick
 On Beauty by Elaine Scarry
 Le Petit Prince by Antoine de Saint-Exupéry
 Don't Burn This Book: Thinking for Yourself in an Age of Unreason by Dave Rubin
-Letters to a Young Poet by Rainer Maria Rilke and translated by MD Herter Norton
+Letters to a Young Poet by Rainer Maria Rilke (translated by MD Herter Norton)
 The Hoops Whisperer: On the Court and Inside the Heads of Basketball's Best Players by Idan Ravin
-The Last Days of Socrates by Plato and translated by Hugh Tredennick
+The War of Art, Steven Pressfield
+The Last Days of Socrates, Plato (translated by Hugh Tredennick)
 Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values by Robert M. Pirsig
 Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink
 12 Rules for Life: An Antidote to Chaos by Jordan B. Peterson
@@ -84,20 +85,20 @@ Liar's Poker by Michael Lewis
 Flash Boys: A Wall Street Revolt by Michael Lewis
 The Big Short: Inside the Doomsday Machine by Michael Lewis
 Freakonomics: A Rogue Economist Explores the Hidden Side of Everything by Steven D. Levitt and Stephen J. Dubner
-Practice Perfect: 42 Rules for Getting Better at Getting Better by Doug Lemov, Katie Yezzi and Erica Woolway
-To Kill a Mockingbird by Harper Lee
-The Sixth Extinction: An Unnatural History by Elizabeth Kolbert
-Shoe Dog: A Memoir by the Creator of NIKE by Phil Knight
-Steal Like an Artist: 10 Things Nobody Told You About Being Creative by Austin Kleon
-Rich Dad's Rich Kid, Smart Kid: Giving Your Children a Financial Headstart by Robert T. Kiyosaki and Sharon L. Lechter
+Practice Perfect: 42 Rules for Getting Better at Getting Better, Doug Lemov, Katie Yezzi and Erica Woolway
+To Kill a Mockingbird | Harper Lee
+The Sixth Extinction: An Unnatural History | Elizabeth Kolbert
+Shoe Dog: A Memoir by the Creator of NIKE | Phil Knight
+Steal Like an Artist: 10 Things Nobody Told You About Being Creative | Austin Kleon
+Rich Dad's Rich Kid, Smart Kid: Giving Your Children a Financial Headstart | Robert T. Kiyosaki and Sharon L. Lechter
 Rich Dad, Poor Dad by Robert T. Kiyosaki and Sharon Lechter
-The Autobiography of Martin Luther King Jr by Martin Luther King Jr and edited by Clayborne Carson
-On the Road by Jack Kerouac
-Profiles in Courage by John F. Kennedy
-The Adventures of Adam Raccoon: Race to Victory Mountain by Glen Keane
-I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence by Michael Jordan and Sandro Miller
-Steve Jobs by Walter Isaacson
-Einstein: His Life and Universe by Walter Isaacson
+The Autobiography of Martin Luther King Jr | Martin Luther King Jr and edited by Clayborne Carson
+On the Road | Jack Kerouac
+Profiles in Courage | John F. Kennedy
+The Adventures of Adam Raccoon: Race to Victory Mountain | Glen Keane
+I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence | Michael Jordan and Sandro Miller
+Steve Jobs | Walter Isaacson
+Einstein: His Life and Universe | Walter Isaacson
 Brave New World by Aldous Huxley
 This Is Not a T-Shirt: A Brand, a Culture, a Community—a Life in Streetwear by Bobby Hundreds
 Delivering Happiness: A Path to Profits, Passion, and Purpose by Tony Hsieh
@@ -114,8 +115,9 @@ Letters to a Young Contrarian by Christopher Hitchens
 Hitch 22: A Memoir by Christopher Hitchens
 Arguably: Selected Essays by Christopher Hitchens
 Zen in the Art of Archery by Eugen Herrigel
-A Farewell to Arms by Ernest Hemingway
-The Illustrated A Brief History of Time: The Universe in a Nutshell by Stephen Hawking
+For Whom the Bell Tolls, Ernest Hemingway
+A Farewell to Arms, Ernest Hemingway
+The Illustrated A Brief History of Time: The Universe in a Nutshell, Stephen Hawking
 The Fab 5: The Scrapbook of a Revolution by Hannah Harshe and M. Earl Smith
 Lying by Sam Harris
 Free Will by Sam Harris

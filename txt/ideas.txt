@@ -1,14 +1,13 @@
 Ideas for pages:
     About (this site and me)
-    Essays
-    Books
-    Soccer highlights on YouTube
-    Resume
+    Bookshelf
+    Soccer
+    Résumé
     Contact
-    Toolbox
     GitHub
 
 Eventually:
+    Essays
     Playground
     Photos
     Drawings
@@ -19,6 +18,7 @@ Eventually:
 Maybe:
     Questions 
     Book notes
+    Toolbox
 
 How the site will look:
     simple but not lazy

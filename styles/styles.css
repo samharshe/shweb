@@ -2,8 +2,12 @@
     font-family: 'Scheherazade', serif;
 }
 
-ul {
+ul { 
     list-style: none;
+}
+
+.booklist, .biolist{
+    padding-inline-start: 0.5em !important;
 }
 
 div {
