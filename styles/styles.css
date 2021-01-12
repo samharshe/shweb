@@ -8,10 +8,17 @@ ul {
     list-style: none;
 }
 
+a.nav-link{
+    text-align: center;
+}
+
 @media (min-width: 768px) {
     .navbar-expand-md .navbar-nav {
         -ms-flex-direction: row;
         flex-direction: column;
+    }
+    a.nav-link {
+        text-align: left;
     }
 }
 
@@ -23,10 +30,6 @@ nav.navbar.navbar-expand-md {
     width: 100%;
 }
 
-a.nav-link{
-    text-align: center;
-}
-
 .navbar {
-    padding; 0;
+    padding: 0;
 }

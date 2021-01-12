@@ -9,8 +9,15 @@
         <title>Home · Sam Harshe</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <!-- Google fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Scheherazade:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+        <script src ="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src ="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+        
+        <!-- My stylesheet -->
         <link rel="stylesheet" href="styles/styles.css">
     </head>
     <body>
@@ -20,15 +27,35 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-md-2 menu">
-                    <ul class="menu">
-                        <li class="font-weight-bold"><a href="home.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="bookshelf.html">Bookshelf</a></li>
-                        <li><a href="soccer.html">Soccer</a></li>
-                        <li><a href="resume.html">Résumé</a></li>
-                    </ul>
+                <!-- Navbar -->
+                <div class="col-md-2">
+                    <nav class="navbar navbar-expand-md">
+                        <button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                            <span class="text-sm-center" style="color: blue">• • •</span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                            <ul class="nav navbar-nav">
+                                <li class="nav-item">
+                                    <a class="nav-link py-1" href="home.html">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link py-1" href="about.html">About</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link py-1" href="soccer.html">Soccer</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link py-1" href="bookshelf.html">Bookshelf</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link py-1" href="resume.html">Résumé</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
                 </div>
+
+                <!-- End navbar -->
                 <div class="col-md-10 content">
                     <div class="row">
                         <div class="col-md-3 px-4 pb-4"><img src="files/1.jpeg" class="img-fluid" alt="Responsive image"></div>
