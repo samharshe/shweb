@@ -3,12 +3,10 @@ Ideas for pages:
     Bookshelf
     Soccer
     Résumé
-    Contact
-    GitHub
-
+    
 Eventually:
     Essays
-    Playground
+    Playground/programming/GitHub
     Photos
     Drawings
     Paintings
