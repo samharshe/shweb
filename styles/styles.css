@@ -37,3 +37,7 @@ nav.navbar.navbar-expand-md {
 object {
 
 }
+
+.active {
+    font-weight: bold;
+}
