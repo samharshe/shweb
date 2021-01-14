@@ -21,22 +21,22 @@
         <link rel="stylesheet" href="styles/styles.css">
     </head>
     <body>
-        <div class="row">
-            <div class="col-md-2">
-            </div>
-            <div class="col-md-10 text-center my-2">
-                <header id="main-header"><h1 id="name"><a href="home.html">Sam Harshe</a></h1></header>
-            </div>
-        </div>
-        
-
         <div class="container">
+            <!-- header -->
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-10 text-center my-2">
+                    <header id="main-header"><h1 id="name"><a href="home.html">Sam Harshe</a></h1></header>
+                </div>
+            </div>
+            <hr class='d-block d-md-none' id='menu-top-hr'>
+        
             <div class="row">
                 <!-- Navbar -->
                 <div class="col-md-2">
                     <nav class="navbar navbar-expand-md">
                         <button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-                            <span class="text-sm-center" style="color: blue">• • •</span>
+                            <span class="text-sm-center" id="menu-dots">• • •</span>
                         </button>
                         <div class="collapse navbar-collapse show" id="collapsibleNavbar">
                             <ul class="nav navbar-nav">
@@ -58,9 +58,10 @@
                             </ul>
                         </div>
                     </nav>
+                    <hr class='d-block d-md-none collapse'>
                 </div>
-
                 <!-- End navbar -->
+
                 <div class="col-md-10 content">
                     <div class="row">
                         <div class="col-md-3 px-4 pb-4"><img src="files/1.jpeg" class="img-fluid" alt="Responsive image"></div>
@@ -81,7 +82,7 @@
                         <div class="col-md-3 p-4"><img src="files/12.jpeg" class="img-fluid" alt="Responsive image"></div>
                     </div>
                     <div class="row">
-                        <button class="btn-primary mx-auto">More photos</button>
+                        <button class="mx-auto"> + + + </button>
                     </div>
                 </div>
             </div>

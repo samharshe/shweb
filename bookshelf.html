@@ -21,21 +21,22 @@
         <link rel="stylesheet" href="styles/styles.css">
     </head>
     <body>
-        <div class="row">
-            <div class="col-md-2">
-            </div>
-            <div class="col-md-10 text-center my-2">
-                <header id="main-header"><h1 id="name"><a href="home.html">Sam Harshe</a></h1></header>
-            </div>
-        </div>
-
         <div class="container">
+            <!-- header -->
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-10 text-center my-2">
+                    <header id="main-header"><h1 id="name"><a href="home.html">Sam Harshe</a></h1></header>
+                </div>
+            </div>
+            <hr class='d-block d-md-none' id='menu-top-hr'>
+
             <div class="row">
                 <!-- Navbar -->
                 <div class="col-md-2">
                     <nav class="navbar navbar-expand-md">
                         <button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-                            <span class="text-sm-center" style="color: blue">• • •</span>
+                            <span class="text-sm-center" id="menu-dots">• • •</span>
                         </button>
                         <div class="collapse navbar-collapse show" id="collapsibleNavbar">
                             <ul class="nav navbar-nav">
@@ -57,12 +58,13 @@
                             </ul>
                         </div>
                     </nav>
+                    <hr class='d-block d-md-none'>
                 </div>
                 <!-- End navbar -->
                 
                 <div class="content col-md-10">
                     <div>Inspired by <a href="https://patrickcollison.com/bookshelf">Patrick Collison</a>, I decided to include a catalog of all of the physical books I own and have finished, organized by the author's last name.</div>
-                    <div>If you have any reading suggestions, please <a href="contact.html" target="_blank">let me know</a>!</div>
+                    <div>If you have any reading suggestions, please <a href="mailto:sam.harshe@yale.edu" target="_blank">let me know</a>!</div>
                     <hr>
                     <div class="font-weight-bold">Library:</div>
                     <ul class="booklist">
@@ -185,6 +187,7 @@
                         <li><span class="font-italic">Drive: The Surprising Truth About What Motivates Us</span> by Daniel H. Pink</li>
                         <li><span class="font-italic">Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values</span> by Robert M. Pirsig</li>
                         <li><span class="font-italic">The Last Days of Socrates</span> by Plato (translated by Hugh Tredennick)</li>
+                        <li><span class="font-italic">The War of Art</span> by Steven Pressfield</li>
                         <li><span class="font-italic">The Hoops Whisperer: On the Court and Inside the Heads of Basketball's Best Players</span> by Idan Ravin</li>
                         <li><span class="font-italic">Letters to a Young Poet</span> by Rainer Maria Rilke and translated by MD Herter Norton</li>
                         <li><span class="font-italic">Don't Burn This Book: Thinking for Yourself in an Age of Unreason</span> by Dave Rubin</li>

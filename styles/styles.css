@@ -1,29 +1,45 @@
+:root {
+    --body: #FFF;
+    --anchor-text: black;
+    --accent: #EAEFF2;
+}
+
 body {
     font-family: 'Scheherazade', serif;
-    background-color: #EAEFF2;
-    font-size: large;
+    background-color: var(--body);
+}
+
+button {
+    background: var(--body);
+    border: 1px solid black;
+    border-radius: 2px;
+    font-weight: bold;
 }
 
 ul { 
     list-style: none;
 }
 
+a {
+    color: var(--anchor-text);
+    text-decoration: underline;;
+}
+
+h1 a {
+    text-decoration: none;
+}
+
+h1 a:hover {
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--accent);
+}
+
 a.nav-link{
     text-align: center;
-}
-
-@media (min-width: 768px) {
-    .navbar-expand-md .navbar-nav {
-        -ms-flex-direction: row;
-        flex-direction: column;
-    }
-    a.nav-link {
-        text-align: left;
-    }
-}
-
-.booklist, .biolist{
-    padding-inline-start: 0.5em !important;
+    text-decoration: none;;
 }
 
 nav.navbar.navbar-expand-md {
@@ -34,10 +50,31 @@ nav.navbar.navbar-expand-md {
     padding: 0;
 }
 
-object {
-
+.booklist, .biolist{
+    padding-inline-start: 0.5em !important;
 }
 
 .active {
     font-weight: bold;
+}
+
+@media (min-width: 768px) {
+    .navbar-expand-md .navbar-nav {
+        -ms-flex-direction: row;
+        flex-direction: column;
+    }
+    a.nav-link {
+        text-align: left;
+    }
+    #name {
+        margin-bottom: 0.5rem;
+    }
+}
+
+#menu-top-hr {
+    margin-top: 0;
+}
+
+#name {
+    margin-bottom: 0;
 }
