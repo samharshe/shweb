@@ -1,15 +1,13 @@
-var hide = 3
-
-console.log("hello");
+var row_to_show = 3
+var num_rows = 17;
 var show_more_button = document.getElementById("show_more_button");
 
 show_more_button.addEventListener("click", function(e){
-    hide++;
-    console.log(hide);
-    s = "image-row-" + String(hide);
-    var row = document.getElementById(s);
+    row_to_show++;
+    row_id = "image-row-" + String(row_to_show);
+    var row = document.getElementById(row_id);
     row.classList.toggle("d-none");
-    if(hide==17){
+    if(row_to_show==num_rows){
         document.getElementById("show_more_button").classList.toggle("d-none");
     }
 });
