@@ -78,3 +78,7 @@ nav.navbar.navbar-expand-md {
 #name {
     margin-bottom: 0;
 }
+
+button:focus{
+    outline: 0;
+}

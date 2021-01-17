@@ -17,7 +17,7 @@ String Theory: David Foster Wallace on Tennis
 Consider the Lobster and Other Essays|David Foster Wallace
 The Captain Class: A New Theory of Leadership|Sam Walker
 Why We Sleep: Unlocking the Power of Sleep and Dreams|Matthew Walker
-The Bhagavad Gita
+The Bhagavad Gita|translated by Barbara Stoler Miller
 Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future|Ashlee Vance
 The Art of the Short Game: Tour-Tested Secrets for Getting Up and Down|Stan Utley and Matthew Rudy
 The Art of War|Sun Tzu
@@ -91,7 +91,6 @@ To Kill a Mockingbird|Harper Lee
 The Sixth Extinction: An Unnatural History|Elizabeth Kolbert
 Shoe Dog: A Memoir|the Creator of NIKE|Phil Knight
 Steal Like an Artist: 10 Things Nobody Told You About Being Creative|Austin Kleon
-Rich Dad's Rich Kid, Smart Kid: Giving Your Children a Financial Headstart|Robert T. Kiyosaki and Sharon L. Lechter
 Rich Dad, Poor Dad|Robert T. Kiyosaki and Sharon Lechter
 The Autobiography of Martin Luther King Jr|Martin Luther King Jr (edited by Clayborne Carson)
 On the Road|Jack Kerouac
@@ -155,7 +154,7 @@ Gifted Hands: The Ben Carson Story|Ben Carson
 Bad Blood: Secrets and Lies in a Silicon Valley Startup|John Carreyrou
 How to Win Friends and Influence People|Dale Carnegie
 Players First: Coaching from the Inside Out|John Calipari
-Quiet: THe Power of Introverts in a World that Can't Stop Talking|Susan Cain
+Quiet: The Power of Introverts in a World that Can't Stop Talking|Susan Cain
 A Walk in the Woods: Rediscovering America on the Appalachian Trail|Bill Bryson
 A Short History of Nearly Everything|Bill Bryson
 The Rise and Fall of the Dinosaurs: A New History of Their Lost World|Steve Brusatte
