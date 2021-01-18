@@ -1,17 +1,17 @@
 :root {
-    --body: #FFF;
-    --anchor-text: black;
-    --accent: #EAEFF2;
+    --light: #FFF;
+    --dark: black;
+    --accent: #EAEAEA;
 }
 
 body {
     font-family: 'Scheherazade', serif;
-    background-color: var(--body);
+    background-color: var(--light);
 }
 
 button {
-    background: var(--body);
-    border: 1px solid black;
+    background: var(--light);
+    border: 1px solid var(--dark);
     border-radius: 2px;
     font-weight: bold;
 }
@@ -21,7 +21,7 @@ ul {
 }
 
 a {
-    color: var(--anchor-text);
+    color: var(--dark);
     text-decoration: underline;;
 }
 
@@ -29,12 +29,9 @@ h1 a {
     text-decoration: none;
 }
 
-h1 a:hover {
-    text-decoration: none;
-}
-
 a:hover {
     color: var(--accent);
+    text-decoration: none;
 }
 
 a.nav-link{
@@ -77,6 +74,17 @@ nav.navbar.navbar-expand-md {
 
 #name {
     margin-bottom: 0;
+}
+
+#top-row {
+    background: var(--dark);
+}
+
+
+#name a {
+    color: var(--light);
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: .75em;
 }
 
 button:focus{

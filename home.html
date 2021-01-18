@@ -21,24 +21,23 @@
         <link rel="stylesheet" href="styles/styles.css">
     </head>
     <body>
-        <div class="container">
-            <!-- header -->
-            <div class="row">
-                <div class="col-md-2"></div>
-                <div class="col-md-10 text-center my-2">
-                    <header id="main-header"><h1 id="name"><a href="home.html">Sam Harshe</a></h1></header>
-                </div>
+        <!-- header -->
+        <div class="row" id="top-row">
+            <div class="col-12 text-center my-2">
+                <header id="main-header"><h1 class="mt-1" id="name"><a href="home.html">Sam Harshe</a></h1></header>
             </div>
+        </div>
+    
+        <div class="container">
             <hr class='d-block d-md-none' id='menu-top-hr'>
-        
             <div class="row">
                 <!-- Navbar -->
-                <div class="col-md-2">
+                <div class="col-md-1">
                     <nav class="navbar navbar-expand-md">
                         <button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                             <span class="text-sm-center" id="menu-dots">• • •</span>
                         </button>
-                        <div class="collapse navbar-collapse show" id="collapsibleNavbar">
+                        <div class="collapse navbar-collapse show mt-md-4" id="collapsibleNavbar">
                             <ul class="nav navbar-nav">
                                 <li class="nav-item active">
                                     <a class="nav-link py-1" href="home.html">Home</a>
@@ -170,9 +169,10 @@
                         <button class="mx-auto mb-3" id="show_more_button"> + + + </button>
                     </div>
                 </div>
+
+                <div class="col-md-1"></div>
             </div>
         </div>
-
         <script src="js/app.js" async defer></script>
     </body>
 </html>
