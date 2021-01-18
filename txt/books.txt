@@ -62,6 +62,8 @@ Animal Farm|George Orwell
 The Road to Wigan Pier|George Orwell
 The Stolen (An American Fairie Tale, #1)|Bishop O'Connell
 The Forgotten (An American Faerie Tale, #2)|Bishop O'Connell
+Digital Minimalism|Cal Newport
+Deep Work|Cal Newport
 How To: Absurd Scientific Advice for Common Real-World Problems|Randall Munroe
 What If? Serious Scientific Answers to Absurd Hypothetical Questions|Randall Munroe
 Thing Explainer: Complicated Stuff in Simple Words|Randall Munroe
@@ -124,6 +126,7 @@ Free Will|Sam Harris
 Relentless: From Good to Great to Unstoppable|Tim S. Grover and Shari Lesser Wenk
 Rogue Lawyer|John Grisham
 Lord of the Flies|William Golding
+Can't Hurt Me|David Goggins
 The Dip: A Little Book That Teaches You When to Quit|Seth Godin
 The Tipping Point: How Little Things Can Make a Big Difference|Malcolm Gladwell
 David and Goliath: Underdogs, Misfits, and the Art of Battling Giants|Malcolm Gladwell
