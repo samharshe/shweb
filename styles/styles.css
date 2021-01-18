@@ -45,6 +45,7 @@ nav.navbar.navbar-expand-md {
 
 .navbar {
     padding: 0;
+    position: fixed;
 }
 
 .booklist, .biolist{
