@@ -14,6 +14,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Scheherazade:wght@400;700&display=swap" rel="stylesheet">
 
         <!-- Bootstrap -->
+        <!-- CSS only -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
         <script src ="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script src ="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
@@ -63,10 +64,16 @@
                 <!-- End navbar -->
 
                 <div class="col-md-10 content">
-                    <div class="jumbotron my-3 p-3" id="clicked-image-jumbo">
+                    <div class="jumbotron d-none d-md-inline my-3 p-3" id="clicked-image-jumbo">
                         <div class="container text-center">
                             <div id="image-description">U8 Wixom Champs</div>
-                            <img src="files/2.jpeg" class="img-fluid m-auto" alt="Responsive image">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" id="chev-left" class="bi bi-chevron-left mr-3" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
+                            </svg>
+                            <img id="jumbo-image" src="files/2.jpeg" class="img-fluid m-auto" alt="Responsive image">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" id="chev-right" class="bi bi-chevron-right ml-3" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/>
+                            </svg>
                             <div class="row align-items-center">
                                 <button class="mx-auto my-3" id="close-jumbo-button">Close</button>
                             </div>

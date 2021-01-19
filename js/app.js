@@ -12,6 +12,10 @@ show_more_button.addEventListener("click", function(e){
     }
 });
 
+for(var i = 0; i <= 68; i++){
+    document.getElementById
+}
+
 var close_button = document.getElementById("close-jumbo-button");
 close_button.addEventListener("click", function(e){
     document.getElementById("clicked-image-jumbo").classList.toggle("d-none");
