@@ -103,9 +103,12 @@ nav.navbar.navbar-expand-md {
     transform: translate(-50%, 0);
     background: var(--light);
     border: 2px solid var(--dark);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
 #jumbo-image {
+    width: 65%;
+    height: 65%;
 }
 
 button:focus{
