@@ -47,7 +47,6 @@ nav.navbar.navbar-expand-md {
 
 .navbar {
     padding: 0;
-    position: fixed;
 }
 
 .booklist, .biolist{
@@ -69,6 +68,9 @@ nav.navbar.navbar-expand-md {
     #name {
         margin-bottom: 0.5rem;
     }
+    .navbar {
+        position: fixed;
+    }
 }
 
 @media (max-width: 768px) {
@@ -89,7 +91,6 @@ nav.navbar.navbar-expand-md {
     background: var(--dark);
 }
 
-
 #name a {
     color: var(--light);
     font-family: 'Helvetica Neue', sans-serif;
@@ -108,6 +109,6 @@ button:focus{
 ::selection {
     background: var(--highlight); /* WebKit/Blink Browsers */
   }
-  ::-moz-selection {
+::-moz-selection {
     background: var(--highlight); /* Gecko Browsers */
-  }
+}
