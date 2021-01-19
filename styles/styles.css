@@ -48,8 +48,13 @@ nav.navbar.navbar-expand-md {
     padding: 0;
 }
 
-.booklist, .biolist{
+.biolist {
     padding-inline-start: 0.5em !important;
+}
+
+.booklist {
+    padding-inline-start: 0 !important;
+
 }
 
 .active {

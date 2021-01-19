@@ -13,11 +13,11 @@ Attack of the Deranged Mutant Killer Monster SNOW GOONS|Bill Watterson
 The Authoratative Calvin and Hobbes|Bill Watterson
 The Indespensablle Calvin and Hobbes|Bill Watterson
 This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life|David Foster Wallace
-String Theory: David Foster Wallace on Tennis
+String Theory: David Foster Wallace on Tennis|
 Consider the Lobster and Other Essays|David Foster Wallace
 The Captain Class: A New Theory of Leadership|Sam Walker
 Why We Sleep: Unlocking the Power of Sleep and Dreams|Matthew Walker
-The Bhagavad Gita|translated by Barbara Stoler Miller
+Automobiles That Changed History|Saverio Villa
 Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future|Ashlee Vance
 The Art of the Short Game: Tour-Tested Secrets for Getting Up and Down|Stan Utley and Matthew Rudy
 The Art of War|Sun Tzu
@@ -48,7 +48,7 @@ Don't Burn This Book: Thinking for Yourself in an Age of Unreason|Dave Rubin
 Letters to a Young Poet|Rainer Maria Rilke (translated by MD Herter Norton)
 How I Built This|Guy Raz
 The Hoops Whisperer: On the Court and Inside the Heads of Basketball's Best Players|Idan Ravin
-The War of Art, Steven Pressfield|he War of Art, Steven Pressfield
+The War of Art|by Steven Pressfield
 The Last Days of Socrates|Plato (translated by Hugh Tredennick)
 Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values|Robert M. Pirsig
 Drive: The Surprising Truth About What Motivates Us|Daniel H. Pink
@@ -71,7 +71,7 @@ The Mindful Athlete: Secrets to Pure Performance|George Mumford
 The World's Shortest Stories|Steve Moss
 The Wall Street Journal Guide to Understanding Money and Investing|Kenneth M. Morris, Virginia B. Morris and Alan M. Siegel
 Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World|Mark Miodownik
-The Crucibl|Arthur Miller
+The Crucible|Arthur Miller
 The Accidental Billionaires: The Founding of Facebook|Ben Mezrich
 Above the Line: Lessons in Leadership and Life from a Championship Season|Urban Meyer and Wayne Coffey
 7 Men: And the Secret of Their Greatnes|Eric Metaxas
@@ -134,7 +134,7 @@ Stress Test: Reflections on Financial Crises|Timothy F. Geithner
 The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance|W. Timothy Gallwey
 Man's Search for Meaning|Viktor E. Frankl
 How to Read Literature Like a Professor|Thomas C. Foster
-The Great Gat|by F. Scott Fitzgerald
+The Great Gatsby|by F. Scott Fitzgerald
 Where Nobody Knows Your Name: Life In the Minor Leagues of Baseball|John Feinstein
 Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher|Richard P. Feynman
 The 4-Hour Workweek|Timothy Ferriss 
@@ -169,3 +169,5 @@ The ESPN Uncyclopedia|Gary Belsky and Neil Fine
 The New York Trilogy|Paul Auster
 Meditations|Marcus Aurelius
 The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe|Stephon Alexander
+The Bhagavad Gita|translated by Barbara Stoler Miller
+The Bible: New International Version|
