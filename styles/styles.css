@@ -2,6 +2,7 @@
     --light: #FFF;
     --dark: black;
     --accent: #EAEAEA;
+    --highlight: rgb(100, 200, 200);
 }
 
 body {
@@ -95,6 +96,18 @@ nav.navbar.navbar-expand-md {
     font-size: .75em;
 }
 
+#clicked-image-jumbo {
+    position: fixed;
+    z-index: 10;
+}
+
 button:focus{
     outline: 0;
 }
+
+::selection {
+    background: var(--highlight); /* WebKit/Blink Browsers */
+  }
+  ::-moz-selection {
+    background: var(--highlight); /* Gecko Browsers */
+  }
