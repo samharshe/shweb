@@ -43,12 +43,12 @@ Letters from a Stoic|Seneca
 Snow Flower and the Secret Fan|Lisa See
 Revolver: A Menacing Stranger. Stolen Gold. And a Loaded Gun.|Marcus Sedgwick
 On Beauty|Elaine Scarry
-Le Petit Prince|Antoine de Saint-Exupéry
+Le Petit Prince|*d'Antoine de Saint-Exupéry
 Don't Burn This Book: Thinking for Yourself in an Age of Unreason|Dave Rubin
 Letters to a Young Poet|Rainer Maria Rilke (translated by MD Herter Norton)
 How I Built This|Guy Raz
 The Hoops Whisperer: On the Court and Inside the Heads of Basketball's Best Players|Idan Ravin
-The War of Art|by Steven Pressfield
+The War of Art|Steven Pressfield
 The Last Days of Socrates|Plato (translated by Hugh Tredennick)
 Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values|Robert M. Pirsig
 Drive: The Surprising Truth About What Motivates Us|Daniel H. Pink
@@ -76,7 +76,7 @@ The Accidental Billionaires: The Founding of Facebook|Ben Mezrich
 Above the Line: Lessons in Leadership and Life from a Championship Season|Urban Meyer and Wayne Coffey
 7 Men: And the Secret of Their Greatnes|Eric Metaxas
 Make Your Bed: Little Things That Can Change Your Life...And Maybe the World|William H. McRaven 
-El coronel no tiene quien le escriba|Gabriel García Márquez
+El coronel no tiene quien le escriba|*de Gabriel García Márquez
 The Greatest Salesman in the World|Og Mandino
 Swim with the Sharks Without Being Eaten Alive: Outsell, Outmanage, Outmotivate, and Outnegotiate Your Competition|Harvey MacKay
 The New Way Things Work|David Macaulay
@@ -134,7 +134,8 @@ Stress Test: Reflections on Financial Crises|Timothy F. Geithner
 The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance|W. Timothy Gallwey
 Man's Search for Meaning|Viktor E. Frankl
 How to Read Literature Like a Professor|Thomas C. Foster
-The Great Gatsby|by F. Scott Fitzgerald
+The Great Gatsby|F. Scott Fitzgerald
+Sports Illustrated: The Football Book|Rob Fleder and Rick Reilly
 Where Nobody Knows Your Name: Life In the Minor Leagues of Baseball|John Feinstein
 Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher|Richard P. Feynman
 The 4-Hour Workweek|Timothy Ferriss 
@@ -143,7 +144,7 @@ Peak: Secrets from the New Science of Expertise|K. Anders Ericsson
 The Sports Gene: Inside the Science of Extraordinary Athletic Performance|David Epstein
 100 Deadly Skills: The SEAL Operative's Guide to Eluding Persuers, Evading Capture, and Surviving Any Dangerous Situation|Clint Emerson
 The Cocktail Party|TS Eliot
-The Annotated Waste Land with Eliot's Contemporary Prose|TS Eliot and edited by Lawrence Rainey
+The Annotated Waste Land with Eliot's Contemporary Prose|TS Eliot (edited by Lawrence Rainey)
 What is the What|Dave Eggers
 The Power of Habit: Why We Do What We Do in Life and Business|Charles Duhigg
 Managing Oneself|Peter Drucker
@@ -169,5 +170,8 @@ The ESPN Uncyclopedia|Gary Belsky and Neil Fine
 The New York Trilogy|Paul Auster
 Meditations|Marcus Aurelius
 The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe|Stephon Alexander
-The Bhagavad Gita|translated by Barbara Stoler Miller
-The Bible: New International Version|
+The Bhagavad Gita|*"Vyasa"translated by Barbara Stoler Miller
+The Bible: New International Version|*""
+Sports Illustrated: The Basketball Book|the Sports Illustrated Editors
+Sports Illustrated NFL Quarterback: The Greatest Position in Sport|the Sports Illustrated Editors
+A Beautiful Game: The World's Greatest Players and How Soccer Changed Their Lives|Tom Watt
