@@ -11,3 +11,8 @@ show_more_button.addEventListener("click", function(e){
         document.getElementById("show_more_button").classList.toggle("d-none");
     }
 });
+
+var close_button = document.getElementById("close-jumbo-button");
+close_button.addEventListener("click", function(e){
+    document.getElementById("clicked-image-jumbo").classList.toggle("d-none");
+});
