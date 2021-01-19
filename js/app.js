@@ -36,7 +36,7 @@ chev_right.addEventListener("click", function(e){
     var new_image_src;
     if(new_image_number < 10){
         new_image_src = "files/0" + String(new_image_number) + ".jpeg"
-    } else if(new_image_number == num_pics){
+    } else if(jumbo_image_number == num_pics){
         new_image_src = jumbo_image_src;
     } else {
         new_image_src = "files/" + String(new_image_number) + ".jpeg"
