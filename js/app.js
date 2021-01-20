@@ -50,7 +50,6 @@ chev_left.addEventListener("click", function(e){
     var new_image_number = jumbo_image_number - 1;
     var new_image_src;
     if(jumbo_image_number == 1){
-        console.log('if');
         new_image_src = jumbo_image_src;
     } else if(new_image_number < 10){
         new_image_src = "files/0" + String(new_image_number) + ".jpeg"
@@ -59,3 +58,5 @@ chev_left.addEventListener("click", function(e){
     }
     jumbo_image.src = new_image_src;
 });
+
+console.log('connected!');
