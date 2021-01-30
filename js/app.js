@@ -58,5 +58,3 @@ chev_left.addEventListener("click", function(e){
     }
     jumbo_image.src = new_image_src;
 });
-
-console.log('connected!');
