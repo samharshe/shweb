@@ -1,15 +1,21 @@
 books_file = open("/Users/samharshe/Documents/Programming/SH/txt/books.txt", "r")
 
-books = []
-authors = []
+num_books = 182
+ital = []
+non_ital = []
+alpha = []
+line = []
 
-for i in range(173):
-    split_line = (books_file.readline()).split('|', 1)
-    books.append(split_line[0])
-    authors.append(split_line[-1])
+for i in range(num_books):
+    split_line = (books_file.readline()).split('|', 2)
+    ital.append(split_line[0])
+    non_ital.append(split_line[1])
+    alpha.append(split_line[2][:-1])
 
-books.reverse()
-authors.reverse()
+line = zip(alpha, ital, non_ital)
+line.sort()
 
-for i in range(173):
-    print("<li><span class=\"font-italic\">{}</span> by {}</li>".format(books[i], authors[i][:-1]))
+print("<ul class=\"booklist\">")
+for item in line:
+    print("<li><span class=\"font-italic\">{}</span> {}</li>".format(item[1], item[2]))
+print("</ul>")
