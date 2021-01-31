@@ -40,6 +40,10 @@ a:hover {
     text-decoration: none;
 }
 
+button:focus{
+    outline: 0;
+}
+
 a.nav-link{
     text-align: center;
     text-decoration: none;;
@@ -124,10 +128,6 @@ nav.navbar.navbar-expand-md {
 #jumbo-image {
     width: 65%;
     height: 65%;
-}
-
-button:focus{
-    outline: 0;
 }
 
 ::selection {
