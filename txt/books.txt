@@ -176,7 +176,9 @@ The Book Thief|by Markus Zusak|Zusak Markus
 The Selected Poems of Robert Frost, Illustrated Edition||Frost Robert
 String Theory: David Foster Wallace on Tennis||Wallace David Foster
 The Bible: New International Version||
-The Talent Code: Greatness Isn't Born. It's Grown. Here's How.|by Daniel Coyle|Coyle
-The Little Book of Talent: 52 Tips for Improving Your Skills|by Daniel Coyle|Coyle
-My Turn: A Life of Total Football|by Johann Cruyff|Cruyff
-Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder|by Richard Dawkins|Dawkins
+The Talent Code: Greatness Isn't Born. It's Grown. Here's How.|by Daniel Coyle|Coyle Daniel
+The Little Book of Talent: 52 Tips for Improving Your Skills|by Daniel Coyle|Coyle Daniel
+My Turn: A Life of Total Football|by Johann Cruyff|Cruyff Johann
+Unweaving the Rainbow: Science, Delusion and the Appetite for Wonder|by Richard Dawkins|Dawkins Richard
+Surely You're Joking, Mr. Feynman: Adventures of a Curious Character||Feynman Richard
+Civilization and Its Discontents|by Sigmund Freud|Freud Sigmund

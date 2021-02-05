@@ -71,22 +71,22 @@ nav.navbar.navbar-expand-md {
 }
 
 @media (min-width: 768px) {
-    .navbar-expand-md .navbar-nav {
-        -ms-flex-direction: row;
-        flex-direction: column;
+    object {
+        height: 800px;
+        width: 80%;
     }
     a.nav-link {
         text-align: left;
     }
-    #name {
-        margin-bottom: 0.5rem;
+    .navbar-expand-md .navbar-nav {
+        -ms-flex-direction: row;
+        flex-direction: column;
     }
     .navbar {
         position: fixed;
     }
-    object {
-        height: 800px;
-        width: 80%;
+    #name {
+        margin-bottom: 0.5rem;
     }
 }
 

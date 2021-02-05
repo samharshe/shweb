@@ -12,7 +12,9 @@ for i in range(num_books):
     non_ital.append(split_line[1])
     alpha.append(split_line[2][:-1])
 
-line = zip(alpha, ital, non_ital)
+for i in range(len(alpha)):
+    item = [alpha[i], ital[i], non_ital[i]]
+    line.append(item)
 line.sort()
 
 print("<ul class=\"booklist\">")
