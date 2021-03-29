@@ -1,6 +1,6 @@
 books_file = open("/Users/samharshe/Documents/Programming/SH/txt/books.txt", "r")
 
-num_books = 188
+num_books = 190
 ital = []
 non_ital = []
 alpha = []
