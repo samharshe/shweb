@@ -64,6 +64,12 @@ img {
     padding: .3em 0;
 }
 
+iframe {
+    width: 25%;
+    border: none;
+    margin: 1em;
+}
+
 a {
     text-decoration: none;
 }
@@ -73,6 +79,7 @@ a {
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 #flex {
@@ -105,15 +112,20 @@ a {
         width: 45%;
     }
 
+    iframe {
+        width: 45%;
+    }
+
     nav {
         flex: 100%;
     }
 
-    ul {
-        padding-left: 0;
+    nav ul {
+        border-bottom: 1px solid black;
+        padding: .5em 0;
     }
     
-    li {
+    nav ul li {
         text-align: center;
     }
 
@@ -125,7 +137,17 @@ a {
         justify-content: space-between;
     }
 
+    #videorow {
+        justify-content: space-around;
+    }
+
     #flex {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    iframe {
         width: 100%;
     }
 }
