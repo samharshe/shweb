@@ -10,7 +10,6 @@
 header {
     width: 100%;
     background-color: var(--header-bg-color);
-    border-bottom: 1px solid black;
     margin-bottom: 2em;
 }
 
@@ -31,8 +30,8 @@ ul {
     margin-block-end: 0;
 }
 
-nav ul {
-    padding-left: 50%;
+nav ul li {
+    display: inline;
 }
 
 li a {
@@ -50,11 +49,11 @@ h1 a {
 
 nav {
     position: static;
-    flex: 15%;
+    flex: 100%;
 }
 
 main {
-    flex: 85%;
+    flex: 100%;
     display: flex;
     flex-direction: column;
 }
@@ -83,10 +82,12 @@ a {
 }
 
 #flex {
-    width: 90%;
+    width: 80%;
     display: inline-flex;
+    flex-direction: row;
     flex-wrap: wrap;
     font-family: var(--body-font);
+    justify-content: center;
     font-size: 1.2em;
 }
 
@@ -121,7 +122,6 @@ a {
     }
 
     nav ul {
-        border-bottom: 1px solid black;
         padding: .5em 0;
     }
     

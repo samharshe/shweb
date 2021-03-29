@@ -1,0 +1,106 @@
+:root {
+    --body-font-family: 'Scheherazade', serif;
+    --body-font-size: 1.2em;
+    --header-font-family: 'Roboto', sans-serif;
+    --body-text-color: #000000;
+    --body-bg-color: #FFFFFF;
+    --header-text-color: #000000;
+    --header-bg-color: #FFFFFF;
+}
+
+body {
+    font-family: var(--body-font-family);
+    color: var(--body-text-color);
+    font-size: var(--body-font-size);
+}
+
+header {
+    text-align: center;
+    font-family: var(--header-font-family);
+}
+
+h1 {
+    margin-block-start: 0.6em;
+    margin-block-end: 0.2em;
+}
+
+
+a {
+    text-decoration: none;
+    color: var(--body-text-color)
+}
+
+nav {
+    display: flex;
+    height: 2em;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid black;
+}
+
+nav ul li {
+    display: inline;
+    padding: 0 1em;
+}
+
+nav ul {
+    height: 1.5em;
+}
+
+ul {
+    padding-inline-start: 0;
+}
+
+img {
+    width: 15%;
+    padding: 1.5em 0;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#flex {
+    display: flex;
+    width: 80%;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+}
+
+#selectedNav {
+    text-decoration: underline;
+}
+
+@media (max-width: 992px) {
+    img {
+        width: 45%;
+    }
+
+    .row {
+        justify-content: space-between;;
+    }
+}
+
+@media (max-width: 776px) {
+    img {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    nav {
+        height: 10em;
+        border-top: 1px solid black;
+        padding-bottom: 0;
+    }
+    nav ul li {
+        display: block;
+        padding: none;
+        text-align: center;
+    }
+}
