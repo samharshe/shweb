@@ -3,25 +3,33 @@
     --body-font-size: 1.2em;
     --header-font-family: 'Roboto', sans-serif;
     --body-text-color: #000000;
-    --body-bg-color: #FFFFFF;
-    --header-text-color: #000000;
-    --header-bg-color: #FFFFFF;
+    --body-bg-color: #F7F7F7;
+    --head-text-color: #F7F7F7;
+    --head-bg-color: #101010;
+    --anchor-text-color: #000000;
+    --highlight-text-color: #F7F7F7;
+    --highlight-bg-color: #e75969;
 }
 
 body {
+    background-color: var(--body-bg-color);
     font-family: var(--body-font-family);
     color: var(--body-text-color);
     font-size: var(--body-font-size);
+    margin: 0;
 }
 
 header {
+    background-color: var(--head-bg-color);
     text-align: center;
     font-family: var(--header-font-family);
 }
 
 h1 {
-    margin-block-start: 0.6em;
-    margin-block-end: 0.2em;
+    padding-block-start: 0.6em;
+    padding-block-end: 0.2em;
+    margin-block-start: 0;
+    margin-block-end: 0;
 }
 
 h3 {
@@ -30,8 +38,12 @@ h3 {
 }
 
 a {
+    color: var(--anchor-text-color);
+}
+
+nav ul li a, h1 a {
     text-decoration: none;
-    color: var(--body-text-color)
+    color: var(--head-text-color);
 }
 
 nav {
@@ -39,7 +51,7 @@ nav {
     flex-direction: row;
     justify-content: center;
     padding: 1em 0;
-    border-bottom: 1px solid black;
+    background-color: var(--head-bg-color);
     margin-bottom: 1em;
 }
 
@@ -72,6 +84,7 @@ p {
 iframe {
     padding: 1.5em 0;
     border: none;
+    height: 9em;
 }
 
 hr {
@@ -98,6 +111,7 @@ hr {
     width: 75%;
     flex-wrap: wrap;
     margin: auto;
+    flex-direction: column;
 }
 
 #selectedNav {
@@ -113,6 +127,11 @@ hr {
     height: 45em;
 }
 
+::selection {
+    background: var(--highlight-bg-color);
+    color: var(--highlight-text-color);
+}
+
 @media (max-width: 992px) {
     img {
         width: 45%;
@@ -125,6 +144,10 @@ hr {
     .row {
         justify-content: space-between;;
     }
+
+    #pdf {
+        width: 100%;
+    }
 }
 
 @media (max-width: 776px) {
@@ -134,6 +157,7 @@ hr {
 
     iframe {
         width: 100%;
+        height: 12em;
     }
 
     #flex {
@@ -142,13 +166,10 @@ hr {
 }
 
 @media only screen and (max-width: 600px) {
-    nav {
-        border-top: 1px solid black;
-        padding-bottom: 0;
-    }
     nav ul li {
         display: block;
         padding: none;
         text-align: center;
     }
 }
+
