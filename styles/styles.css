@@ -69,7 +69,7 @@ ul {
 
 img {
     width: 15%;
-    padding: 1.5em 0;
+    padding: 1em 0;
 }
 
 section {
@@ -127,6 +127,18 @@ hr {
     height: 45em;
 }
 
+#showMoreButton {
+    background-color: white;
+    color: black;
+    width: 5em;
+    margin: .5em auto;
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+    border-radius: 2em;
+}
+
 ::selection {
     background: var(--highlight-bg-color);
     color: var(--highlight-text-color);
@@ -147,6 +159,10 @@ hr {
 
     #pdf {
         width: 100%;
+    }
+
+    #showMoreButton {
+        width: 6em;
     }
 }
 
