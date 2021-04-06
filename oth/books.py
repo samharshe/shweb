@@ -1,6 +1,6 @@
 books_file = open("/Users/samharshe/Documents/Programming/SH/txt/books.txt", "r")
 
-num_books = 192
+num_books = 197
 ital = []
 non_ital = []
 alpha = []
@@ -17,7 +17,7 @@ for i in range(len(alpha)):
     line.append(item)
 line.sort()
 
-print("<ul>")
+print("<ul id='booklist'>")
 for item in line:
     print("<li><span class=\"book-title\">{}</span> {}</li>".format(item[1], item[2]))
 print("</ul>")
