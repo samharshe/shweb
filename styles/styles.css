@@ -8,7 +8,7 @@
     --head-bg-color: #101010;
     --anchor-text-color: #000000;
     --highlight-text-color: #F7F7F7;
-    --highlight-bg-color: #e75969;
+    --highlight-bg-color: rgb(70, 200, 233);
 }
 
 body {
@@ -124,15 +124,24 @@ hr {
 }
 
 #showMoreButton {
-    background-color: white;
-    color: black;
-    width: 5em;
+    background-color: var(--body-bg-color);
+    width: 3em;
     margin: .5em auto;
     border: 2px solid black;
     text-align: center;
     font-weight: bold;
     font-size: 1em;
     display: block;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) .8s;
+
+}
+
+#showMoreButton:hover {
+    background-color: black;
+    border: 2px solid transparent;
+    border-radius: 40%;
+    color: white;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) .8s;
 }
 
 #booklist {
@@ -193,4 +202,3 @@ hr {
         text-align: center;
     }
 }
-
