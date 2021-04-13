@@ -1,14 +1,15 @@
 :root {
     --body-font-family: 'Scheherazade', serif;
-    --body-font-size: 1.2em;
     --header-font-family: 'Roboto', sans-serif;
+    --body-font-size: 1.2em;
     --body-text-color: #000000;
     --body-bg-color: #F7F7F7;
     --head-text-color: #F7F7F7;
     --head-bg-color: #101010;
-    --anchor-text-color: #000000;
+    --anchor-text-color: #101010;
     --highlight-text-color: #F7F7F7;
-    --highlight-bg-color: rgb(70, 200, 233);
+    --highlight-bg-color: #46c8e9;
+    --outline-color: #d3d3d3;
 }
 
 body {
@@ -91,7 +92,7 @@ iframe {
 
 hr {
     width: 100%;
-    background-color: lightgrey;
+    background-color: var(--outline-color);
     border: none;
     height: 1px;
 }
@@ -127,21 +128,11 @@ hr {
     background-color: var(--body-bg-color);
     width: 3em;
     margin: .5em auto;
-    border: 2px solid black;
+    border: 2px solid var(--outline-color);
     text-align: center;
     font-weight: bold;
     font-size: 1em;
     display: block;
-    transition: cubic-bezier(0.075, 0.82, 0.165, 1) .8s;
-
-}
-
-#showMoreButton:hover {
-    background-color: black;
-    border: 2px solid transparent;
-    border-radius: 40%;
-    color: white;
-    transition: cubic-bezier(0.075, 0.82, 0.165, 1) .8s;
 }
 
 #booklist {
