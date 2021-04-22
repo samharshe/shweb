@@ -127,7 +127,7 @@ The Last Days of Socrates|by Plato (translated by Hugh Tredennick)|Plato
 The War of Art|by Steven Pressfield|Pressfield Steven
 The Hoops Whisperer: On the Court and Inside the Heads of Basketball's Best Players|by Idan Ravin|Ravin Idan
 How I Built This|by Guy Raz|Raz Guy
-Letters to a Young Poet|by Rainer Maria Rilke (translated by MD Herter Norton)|Maria Rainer
+Letters to a Young Poet|by Rainer Maria Rilke (translated by MD Herter Norton)|Rilke Maria Rainer
 Don't Burn This Book: Thinking for Yourself in an Age of Unreason|by Dave Rubin|Rubin Dave
 Le Petit Prince|d'Antoine de Saint-Exupéry|Saint-Exupéry Antoine
 On Beauty|by Elaine Scarry|Scarry Elaine
@@ -199,3 +199,4 @@ The Rose That Grew From Concrete|by Tupac Shakur|Shakur Tupac
 Yosemite: An American Treasure|by Kenneth Brower|Brower Kenneth
 River Out of Eden: A Darwinian View of Life|by Richard Dawkins|Dawkins Richard
 The Art of Learning: An Inner Journey to Optimal Performance|by Josh Waitzkin|Waitzkin Josh
+The Book of Five Rings|by Miyamoto Musashi|Musashi Miyamoto
