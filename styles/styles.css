@@ -2,7 +2,7 @@
     --body-font-family: 'Scheherazade', serif;
     --header-font-family: 'Roboto', sans-serif;
     --body-font-size: 1.2em;
-    --body-text-color: #000000;
+    --body-text-color: #101010;
     --body-bg-color: #F7F7F7;
     --head-text-color: #F7F7F7;
     --head-bg-color: #101010;
@@ -128,7 +128,7 @@ hr {
     background-color: var(--body-bg-color);
     width: 3em;
     margin: .5em auto;
-    border: 2px solid var(--outline-color);
+    border: 2px solid var(--body-text-color);
     text-align: center;
     font-weight: bold;
     font-size: 1em;
