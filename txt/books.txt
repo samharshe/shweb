@@ -34,7 +34,7 @@ The Cocktail Party|by TS Eliot|Eliot TS
 The Sports Gene: Inside the Science of Extraordinary Athletic Performance|by David Epstein|Epstein David
 Peak: Secrets from the New Science of Expertise|by K. Anders Ericsson|Ericsson K. Anders
 Escher On Escher: Exploring the Infinite|by M.C. Escher|Escher M.C.
-The 4-Hour Workweek|by Timothy Ferriss|Ferriss Timothy
+The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich|by Timothy Ferriss|Ferriss Timothy
 Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher|by Richard P. Feynman|Feynman Richard P.
 Where Nobody Knows Your Name: Life In the Minor Leagues of Baseball|by John Feinstein|Feinstein John
 Sports Illustrated: The Football Book|by Rob Fleder and Rick Reilly|Fleder Rob Reilly Rick
@@ -204,6 +204,7 @@ A Life Well Played: My Stories|by Arnold Palmer|Palmer Arnold
 The Name of the Rose|by Umberto Eco|Eco Umberto
 Open: An Autobiography|by Andre Agassi|Agassi Andre
 Things Fall Apart|by Chinua Achebe|Achebe Chinua
-Originals|by Adam Grant|Grant Adam
-The 4-Hour Chef|by Timothy Ferriss|Ferriss Timothy
+Originals: How Non-Conformists Move the World|by Adam Grant|Grant Adam
+The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life|by Timothy Ferriss|Ferriss Timothy
 Walden and "Civil Disobedience"|by Henry David Thoreau|Thoreau Henry David
+Stiff Upper Lip, Jeeves|by PG Wodehouse|Wodehouse PG
