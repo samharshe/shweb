@@ -101,7 +101,7 @@ hr {
     width: 100%;
 }
 
-.book-title {
+#booklist li span {
     font-style: italic;
 }
 
