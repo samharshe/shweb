@@ -1,6 +1,7 @@
 books_file = open("/Users/samharshe/Documents/Programming/SH/txt/books.txt", "r")
 
-num_books = 216
+num_books = len(books_file.readlines())
+books_file.seek(0)
 ital = []
 non_ital = []
 alpha = []
