@@ -1,4 +1,4 @@
-books_file = open("/Users/samharshe/Documents/Programming/SH/txt/books.txt", "r")
+books_file = open("/Users/samharshe/Documents/Programming/SH/oth/books.txt", "r")
 
 num_books = len(books_file.readlines())
 books_file.seek(0)
