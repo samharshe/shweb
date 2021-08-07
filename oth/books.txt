@@ -63,7 +63,7 @@ Letters to a Young Contrarian|by Christopher Hitchens|Hitchens Christopher
 The True Believer: Thoughts on the Nature of Mass Movements|by Eric Hoffer|Hoffer Eric
 The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career|by Reid Hoffman and Ben Casnocha|Hoffman Reid Casnocha Ben
 Ben Hogan's Five Lessons: The Modern Fundamentals of Golf|by Ben Hogan|Hogan Ben
-Ego Is the Enemy|by Ryan Holiday|Holiday Ryan
+Ego is the Enemy: The Fight to Master Our Greatest Opponent|by Ryan Holiday|Holiday Ryan
 The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph|by Ryan Holiday|Holiday Ryan
 Stillness Is the Key|by Ryan Holiday|Holiday Ryan
 The Archivist's Story|by Travis Holland|Holland Travis
@@ -226,3 +226,7 @@ The Death of Ivan Ilych and Other Stories|by Leo Tolstoy (translated by Louise a
 Greenlights|by Matthew McCounaghey|McCounaghey Matthew
 Oblivion: Stories|by David Foster Wallace|Wallace Foster David
 The Meaning of It All: Thoughts of a Citizen-Scientist|by Richard P. Feynman|Feynman P. Richard
+The End Is Always Near: Apocalyptic Moments, from the Bronze Age Collapse to Nuclear Near Misses|by Dan Carlin|Carlin Dan
+The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution|by Walter Isaacson|Isaacson Walter
+The Culture Code: The Secrets of Highly Successful Groups|by Daniel Coyle|Coyle Daniel
+Where the Red Fern Grows|by Wilson Rawls|Rawls Wilson
