@@ -80,6 +80,7 @@ section {
 p {
     margin-block-start: 0em;
     margin-block-end: 0em;
+    width: 100%;
 }
 
 iframe {

@@ -73,7 +73,7 @@ Delivering Happiness: A Path to Profits, Passion, and Purpose|by Tony Hsieh|Hsie
 This Is Not a T-Shirt: A Brand, a Culture, a Community—a Life in Streetwear|by Bobby Hundreds|Hundreds Bobby
 Brave New World|by Aldous Huxley|Huxley Aldous
 Einstein: His Life and Universe|by Walter Isaacson|Isaacson Walter
-Steve Jobs|by Walter Isaacson|Isaacson Walter
+Steve Jobs: The Exclusive Biography|by Walter Isaacson|Isaacson Walter
 I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence|by Michael Jordan and Sandro Miller|Jordan Michael Miller Sandro
 The Adventures of Adam Raccoon: Race to Victory Mountain|by Glen Keane|Keane Glen
 Profiles in Courage|by John F. Kennedy|Kennedy John F.
@@ -81,7 +81,7 @@ On the Road|by Jack Kerouac|Kerouac Jack
 The Autobiography of Martin Luther King Jr|by Martin Luther King Jr (edited by Clayborne Carson)|King Jr Martin Luther
 Rich Dad, Poor Dad|by Robert T. Kiyosaki and Sharon Lechter|Kiyosaki Robert T. Lechter Sharon
 Steal Like an Artist: 10 Things Nobody Told You About Being Creative|by Austin Kleon|Kleon Austin
-Shoe Dog: A Memoir by he Creator of NIKE|by Phil Knight|Knight Phil
+Shoe Dog: A Memoir by the Creator of NIKE|by Phil Knight|Knight Phil
 The Sixth Extinction: An Unnatural History|by Elizabeth Kolbert|Kolbert Elizabeth
 To Kill a Mockingbird|by Harper Lee|Lee Harper
 Practice Perfect: 42 Rules for Getting Better at Getting Better|by Doug Lemov, Katie Yezzi and Erica Woolway|Lemov Doug Yezzi Katie Woolway Erica
@@ -90,7 +90,7 @@ The Big Short: Inside the Doomsday Machine|by Michael Lewis|Lewis Michael
 Flash Boys: A Wall Street Revolt|by Michael Lewis|Lewis Michael
 Liar's Poker|by Michael Lewis|Lewis Michael
 The Undoing Project: A Friendship That Changed Our Minds|by Michael Lewis|Lewis Michael
-Mr g: A Novel About The Creation|by Alan Lightman|Lightman Alan
+Mr g: A Novel About the Creation|by Alan Lightman|Lightman Alan
 How to Spend $75 Billion to Make the World a Better Place|by Bjørn Lomborg|Lomborg Bjørn
 Buffett: The Making of an American Capitalist|by Roger Lowenstein|Lowenstein Roger
 The New Way Things Work|by David Macaulay|Macaulay David
@@ -111,8 +111,8 @@ What If? Serious Scientific Answers to Absurd Hypothetical Questions|by Randall 
 How To: Absurd Scientific Advice for Common Real-World Problems|by Randall Munroe|Munroe Randall
 Deep Work|by Cal Newport|Newport Cal
 Digital Minimalism|by Cal Newport|Newport Cal
-The Forgotten (An American Faerie Tale, #2)|by Bishop O'Connell|O'Connell Bishop
-The Stolen (An American Fairie Tale, #1)|by Bishop O'Connell|O'Connell Bishop
+The Forgotten|by Bishop O'Connell|O'Connell Bishop
+The Stolen|by Bishop O'Connell|O'Connell Bishop
 The Road to Wigan Pier|by George Orwell|Orwell George
 Animal Farm|by George Orwell|Orwell George
 1984|by George Orwell|Orwell George
