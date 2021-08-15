@@ -10,7 +10,6 @@
     --highlight-text-color: #F7F7F7;
     --highlight-bg-color: #46c8e9;
     --outline-color: #d3d3d3;
-    --grey: #d3d3d3;
 }
 
 body {
@@ -43,7 +42,7 @@ a {
     color: var(--anchor-text-color);
 }
 
-nav ul li a, h1 a {
+nav ul li, nav ul li a, h1 a {
     color: var(--head-text-color);
     text-decoration: none;
 }
@@ -52,14 +51,13 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    padding: 1em 0;
+    padding: .5em 0;
     background-color: var(--head-bg-color);
     margin-bottom: 1em;
 }
 
 nav ul li {
     display: inline;
-    padding: 0 1em;
 }
 
 ul {
@@ -101,6 +99,11 @@ hr {
 
 .row {
     width: 100%;
+}
+
+.hidden {
+    display: none;
+    transition: height 1s;
 }
 
 #booklist li span {

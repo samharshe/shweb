@@ -8,11 +8,20 @@ const addImages = function(){
     }
 
     if(numImagesShowing == 64){
-        showMoreButton.remove();
+        morePhotosButton.remove();
     }
 }
 
 let numImagesShowing = 12;
 
-const showMoreButton = document.querySelector('#showMoreButton');
-showMoreButton.addEventListener('click', addImages);
+const morePhotosButton = document.querySelector('#morePhotosButton');
+morePhotosButton.addEventListener('click', addImages);
+
+const navDisplayToggle = document.querySelector("#navDisplayToggle");
+const navItems = document.querySelectorAll('.navItem');
+navDisplayToggle.addEventListener('click', function(){
+    console.log(navItems);
+    navItems.forEach(navItem => {
+        navItem.classList.toggle('hidden');
+    });
+});
