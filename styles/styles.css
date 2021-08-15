@@ -1,6 +1,6 @@
 :root {
     --body-font-family: 'Scheherazade', serif;
-    --header-font-family: 'Roboto', sans-serif;
+    --head-font-family: 'Roboto', sans-serif;
     --body-font-size: 1.2em;
     --body-text-color: #101010;
     --body-bg-color: #F7F7F7;
@@ -10,6 +10,7 @@
     --highlight-text-color: #F7F7F7;
     --highlight-bg-color: #46c8e9;
     --outline-color: #d3d3d3;
+    --grey: #d3d3d3;
 }
 
 body {
@@ -23,7 +24,7 @@ body {
 header {
     background-color: var(--head-bg-color);
     text-align: center;
-    font-family: var(--header-font-family);
+    font-family: var(--head-font-family);
 }
 
 h1 {
@@ -43,6 +44,7 @@ a {
 }
 
 nav ul li a, h1 a {
+    color: var(--head-text-color);
     text-decoration: none;
 }
 
@@ -124,16 +126,23 @@ hr {
     height: 40em;
 }
 
-#showMoreButton {
+#morePhotosButton {
     background-color: var(--body-bg-color);
-    width: 3em;
-    margin: .5em auto;
     border: 2px solid var(--body-text-color);
+    border-radius: 5px;
+    width: 5%;
+    margin: .5em 47.5%;
     text-align: center;
-    font-weight: bold;
-    font-size: 1em;
+    font-size: 1.2em;
     display: block;
 }
+
+#morePhotosButton:hover {
+    transition-duration: .4s;
+    background-color: var(--body-text-color);
+    color: var(--body-bg-color);
+}
+
 
 #booklist {
     width: 100%;
