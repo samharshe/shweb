@@ -58,6 +58,7 @@ nav {
 
 nav ul li {
     display: inline;
+    padding: 0 1em;
 }
 
 ul {
@@ -101,11 +102,6 @@ hr {
     width: 100%;
 }
 
-.hidden {
-    display: none;
-    transition: height 1s;
-}
-
 #booklist li span {
     font-style: italic;
 }
@@ -140,15 +136,18 @@ hr {
     display: block;
 }
 
+#navDisplayToggle {
+    display: none;
+}
+
+#booklist {
+    width: 100%;
+}
+
 #morePhotosButton:hover {
     transition-duration: .4s;
     background-color: var(--body-text-color);
     color: var(--body-bg-color);
-}
-
-
-#booklist {
-    width: 100%;
 }
 
 ::selection {
@@ -203,5 +202,13 @@ hr {
         display: block;
         padding: none;
         text-align: center;
+    }
+
+    #navDisplayToggle {
+        display: block;
+    }
+
+    .hidden {
+        display: none;
     }
 }

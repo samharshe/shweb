@@ -20,7 +20,6 @@ morePhotosButton.addEventListener('click', addImages);
 const navDisplayToggle = document.querySelector("#navDisplayToggle");
 const navItems = document.querySelectorAll('.navItem');
 navDisplayToggle.addEventListener('click', function(){
-    console.log(navItems);
     navItems.forEach(navItem => {
         navItem.classList.toggle('hidden');
     });
