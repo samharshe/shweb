@@ -2,26 +2,22 @@
     --body-font-family: 'Scheherazade', serif;
     --head-font-family: 'Roboto', sans-serif;
     --body-font-size: 1.2em;
-    --body-text-color: #101010;
-    --body-bg-color: #F7F7F7;
-    --head-text-color: #F7F7F7;
-    --head-bg-color: #101010;
-    --anchor-text-color: #101010;
-    --highlight-text-color: #F7F7F7;
-    --highlight-bg-color: #46c8e9;
-    --outline-color: #d3d3d3;
+    --light: #F7F7F7;
+    --dark: #101010;
+    --highlight: #46c8e9;
+    --grey: #d3d3d3;
 }
 
 body {
-    background-color: var(--body-bg-color);
-    color: var(--body-text-color);
+    background-color: var(--light);
+    color: var(--dark);
     font-family: var(--body-font-family);
     font-size: var(--body-font-size);
     margin: 0;
 }
 
 header {
-    background-color: var(--head-bg-color);
+    background-color: var(--dark);
     text-align: center;
     font-family: var(--head-font-family);
 }
@@ -43,7 +39,7 @@ a {
 }
 
 nav ul li, nav ul li a, h1 a {
-    color: var(--head-text-color);
+    color: var(--light);
     text-decoration: none;
 }
 
@@ -52,7 +48,7 @@ nav {
     flex-direction: row;
     justify-content: center;
     padding: .5em 0;
-    background-color: var(--head-bg-color);
+    background-color: var(--dark);
     margin-bottom: 1em;
 }
 
@@ -93,7 +89,7 @@ iframe {
 
 hr {
     width: 100%;
-    background-color: var(--outline-color);
+    background-color: var(--grey);
     border: none;
     height: 1px;
 }
@@ -126,8 +122,8 @@ hr {
 }
 
 #morePhotosButton {
-    background-color: var(--body-bg-color);
-    border: 2px solid var(--body-text-color);
+    background-color: var(--light);
+    border: 2px solid var(--dark);
     border-radius: 5px;
     width: 5%;
     margin: .5em 47.5%;
@@ -140,19 +136,15 @@ hr {
     display: none;
 }
 
-#booklist {
-    width: 100%;
-}
-
 #morePhotosButton:hover {
     transition-duration: .4s;
-    background-color: var(--body-text-color);
-    color: var(--body-bg-color);
+    background-color: var(--dark);
+    color: var(--light);
 }
 
 ::selection {
-    background: var(--highlight-bg-color);
-    color: var(--highlight-text-color);
+    background: var(--highlight);
+    color: var(--light);
 }
 
 @media (min-width: 777px) and (max-width: 992px) {
@@ -175,9 +167,6 @@ hr {
         justify-content: space-around;
     }
 
-    #showMoreButton {
-        width: 6em;
-    }
 }
 
 @media (max-width: 776px) {
@@ -194,6 +183,11 @@ hr {
 
     #flex {
         width: 90%
+    }
+
+    #morePhotosButton {
+        width: 25%;
+        margin: .5em auto;
     }
 }
 
