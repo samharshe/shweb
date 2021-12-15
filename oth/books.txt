@@ -160,7 +160,7 @@ The Captain Class: A New Theory of Leadership|by Sam Walker|Walker Sam
 Consider the Lobster and Other Essays|by David Foster Wallace|Wallace David Foster
 This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life|by David Foster Wallace|Wallace David Foster
 The Indespensable Calvin and Hobbes|by Bill Watterson|Watterson Bill
-The Authoratative Calvin and Hobbes|by Bill Watterson|Watterson Bill
+The Authoritative Calvin and Hobbes|by Bill Watterson|Watterson Bill
 Attack of the Deranged Mutant Killer Monster SNOW GOONS|by Bill Watterson|Watterson Bill
 There's Treasure Everywhere|by Bill Watterson|Watterson Bill
 Something Under the Bed is Drooling|by Bill Watterson|Watterson Bill
@@ -238,3 +238,6 @@ Myth and Meaning: Cracking the Code of Culture|by Claude Lévi-Strauss|Lévi-Str
 Beyond Good and Evil: Prelude to a Philosophy of the Future|by Friedrich Nietzsch (translated by Walter Kaufman)|Nietzsche Friedrich
 Notes from Underground, The Double and Other Stories|by Fyodor Dostoevsky (translated by Constance Garnett)|Dostoevsky Fyodor
 The 48 Laws of Power|by Robert Greene|Greene Robert
+Genius: The Life and Science of Richard Feynman|by James Gleick|Gleick James
+The Stranger|by Albert Camus (translated by Matthew Ward)|Camus Albert
+Tiger Woods|by Jeff Benedict and Armen Keteyian|Benedict Jeff Keteyian Armen
