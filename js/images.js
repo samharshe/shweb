@@ -44,7 +44,6 @@ const shuffle = function(array){
 }
 
 let nums = shuffle(Array.from({length: 76}, (_, i) => i + 1))
-console.log(nums)
 
 let numImagesShowing = 12;
 
