@@ -76,13 +76,6 @@ p {
     width: 100%;
 }
 
-iframe {
-    padding: 1.5em;
-    border: none;
-    width: 20vw;
-    height: 15vw;
-}
-
 hr {
     width: 100%;
     background-color: var(--grey);
