@@ -94,10 +94,6 @@ hr {
     width: 100%;
 }
 
-#booklist li span {
-    font-style: italic;
-}
-
 #flex {
     display: flex;
     width: 75%;
