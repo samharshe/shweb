@@ -194,6 +194,7 @@ hr {
     text-align: center;
     font-size: 1.2em;
     display: block;
+    transition-duration: .4s;
 }
 
 #morePhotosButton:hover {
