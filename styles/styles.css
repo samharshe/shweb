@@ -143,12 +143,6 @@ hr {
         height: 30vw;
     }
 
-    iframe {
-        height: 20vw; 
-        width: 30vw;
-        padding: 2vw;
-    }
-
     #pdf {
         width: 100%;
     }
