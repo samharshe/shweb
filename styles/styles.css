@@ -99,30 +99,11 @@ hr {
     font-weight: 700;
 }
 
-.essaySection {
-    max-width: 75ch;
-}
-
-.essayHeader {
-    margin: .33em;
-}
-
-.essayTitle {
-    font-weight: 700;
-}
-
-.essaySubtitle {
-    font-weight: 400;
-}
-
 .essayParagraph {
     margin-bottom: .5em;
 }
 
-.workLink {
-    text-decoration: none;
-}
-
+/* https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline */
 .workLink {
     text-decoration: none;
     background-image: linear-gradient(var(--light), var(--light)),
@@ -135,6 +116,49 @@ hr {
   
 .workLink:hover {
     background-size: 0 2px, 100% 2px;
+}
+
+.essayFooterButton {
+    background-color: var(--light);
+    padding: .5em 1em;
+    border: 2px solid var(--light);
+    border-radius: 5px;
+    transition: 0.4s;
+}
+
+.essayFooterButton:hover {
+    cursor: pointer;
+    background-color: var(--dark);
+    color: var(--light);
+    transition-duration: 0.4s;
+}
+
+#essaySection {
+    max-width: 75ch;
+    margin: auto;
+}
+
+#essayHeader {
+    margin: .33em;
+}
+
+#essayTitle {
+    font-weight: 700;
+}
+
+#essaySubtitle {
+    font-weight: 400;
+}
+
+#essayFooter {
+    margin-top: 2em;
+    display: flex;
+    align-content: space-around;
+}
+
+#essayDate {
+    display: inline;
+    text-align: center;
 }
 
 #flex {
@@ -156,6 +180,10 @@ hr {
     margin-bottom: 2em;
 }
 
+#navDisplayToggle {
+    display: none;
+}
+
 #morePhotosButton {
     color: var(--dark);
     background-color: var(--light);
@@ -166,10 +194,6 @@ hr {
     text-align: center;
     font-size: 1.2em;
     display: block;
-}
-
-#navDisplayToggle {
-    display: none;
 }
 
 #morePhotosButton:hover {
@@ -216,7 +240,7 @@ hr {
 
 @media only screen and (max-width: 600px) {
     nav ul li {
-        display: block;
+        display: none;
         padding: none;
         text-align: center;
     }
@@ -225,7 +249,7 @@ hr {
         display: block;
     }
 
-    .hidden {
-        display: none;
+    .revealed {
+        display: block;
     }
 }
