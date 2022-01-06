@@ -193,7 +193,7 @@ The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psy
 When Einstein Walked with Gödel: Excursions to the Edge of Thought|by Jim Holt|Holt Jim
 Go Set a Watchman|by Harper Lee|Lee Harper
 The Red Pony|by John Steinbeck|Steinbeck John
-Ishmael: A Novel|by Daniel Quinn|Quinn Daniel
+Ishmael|by Daniel Quinn|Quinn Daniel
 The Picture of Dorian Gray|by Oscar Wilde|Wilde Oscar
 The Rose That Grew From Concrete|by Tupac Shakur|Shakur Tupac
 Yosemite: An American Treasure|by Kenneth Brower|Brower Kenneth
@@ -244,3 +244,5 @@ Tiger Woods|by Jeff Benedict and Armen Keteyian|Benedict Jeff Keteyian Armen
 Democratic Vistas|by Walt Whitman|Whitman Walt
 How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence|by Michael Pollan|Pollan Michael
 The Question Concerning Technology and Other Essays|by Martin Heidegger (translated by William Lovitt)|Heidegger Martin
+Doing Good Better|by William MacAskill|MacAskill William
+The Dharma Bums|by Jack Kerouac|Kerouac Jack
