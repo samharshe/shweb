@@ -248,3 +248,5 @@ Doing Good Better|by William MacAskill|MacAskill William
 The Dharma Bums|by Jack Kerouac|Kerouac Jack
 Fahrenheit 451|by Ray Bradbury|Bradbury Ray
 The Log From the Sea of Cortez|by John Steinbeck|Steinbeck John
+80,000 Hours|by Benjamin Todd and the 80,000 Hours Team|Todd Benjamin
+The Complete Calvin and Hobbes, Volume 1|by Bill Watterson|Watterson Bill

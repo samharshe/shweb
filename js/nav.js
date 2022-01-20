@@ -5,3 +5,5 @@ navDisplayToggle.addEventListener('click', function(){
         navItem.classList.toggle('revealed');
     });
 });
+
+console.log("Hello from AWS!")
