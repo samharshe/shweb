@@ -233,7 +233,7 @@ Of Mice and Men|by John Steinbeck|Steinbeck John
 The Metamorphosis and Other Stories|by Franz Kafka|Kafka Franz
 Existentialism from Dostoevsky to Sartre: Basic Writings of Existentialism by Kaufmann, Kierkegaard, Nietzsche, Jaspers, Heidegger, and Others|selected and introduced by Walter Kaufmann|Kaufmann Walter
 Myth and Meaning: Cracking the Code of Culture|by Claude Lévy-Strauss|Lévi-Strauss Claude
-Beyond Good and Evil: Prelude to a Philosophy of the Future|by Friedrich Nietzsch (translated by Walter Kaufman)|Nietzsche Friedrich
+Beyond Good and Evil: Prelude to a Philosophy of the Future|by Friedrich Nietzsche (translated by Walter Kaufman)|Nietzsche Friedrich
 Notes from Underground, The Double and Other Stories|by Fyodor Dostoevsky (translated by Constance Garnett)|Dostoevsky Fyodor
 The 48 Laws of Power|by Robert Greene|Greene Robert
 Genius: The Life and Science of Richard Feynman|by James Gleick|Gleick James
@@ -258,5 +258,8 @@ Views of Egypt and Nubia|by David Roberts|Roberts David
 Peter and the Starcatchers|by Dave Barry and Ridley Pearson|Barry Dave Pearson Ridley
 Feynman's Tips on Physics||Feynman P. Richard
 "On Liberty" and "The Subjugation of Women"|by JS Mill|Mill John Stewart
-"In Praise of Idleness"|by Bertrand Russel (with an introduction, afterword, notes, and illustrations by Bradley Trovor Grieve)|Russel Bertrand Greive Trevor Bradley
+"In Praise of Idleness"|by Bertrand Russellm (with an introduction, afterword, notes, and illustrations by Bradley Trovor Grieve)|Russell Bertrand Greive Trevor Bradley
 Blindfold|by Theo Padnos|Padnos Theo
+Nausea|by Jean-Paul Sartre (translated by Lloyd Alexander)|Sartre Jean-Paul
+My Struggle: Book One|by Karl Ove Knausgård|Knausgård Karl Ove
+Peter and the Shadow Thieves|by Dave Barry and Ridley Pearson|Barry Dave Pearson Ridley
