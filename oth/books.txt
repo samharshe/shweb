@@ -71,7 +71,7 @@ Why Does the World Exist?: An Existential Detective Story|by Jim Holt|Holt Jim
 The Keeper: The Unguarded Story of Tim Howard|by Tim Howard with Ali Benjamin|Howard Tim Benjamin Ali
 Delivering Happiness: A Path to Profits, Passion, and Purpose|by Tony Hsieh|Hsieh Tony
 This Is Not a T-Shirt: A Brand, a Culture, a Community—a Life in Streetwear|by Bobby Hundreds|Hundreds Bobby
-Brave New World|by Aldous Huxley|Huxley Aldous
+Brave New World|by Aldous Huxley|Huxley Aldous*
 Einstein: His Life and Universe|by Walter Isaacson|Isaacson Walter
 Steve Jobs: The Exclusive Biography|by Walter Isaacson|Isaacson Walter
 I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence|by Michael Jordan and Sandro Miller|Jordan Michael Miller Sandro
@@ -80,7 +80,7 @@ Profiles in Courage|by John F. Kennedy|Kennedy John F.
 On the Road|by Jack Kerouac|Kerouac Jack
 The Autobiography of Martin Luther King Jr|by Martin Luther King Jr (edited by Clayborne Carson)|King Jr Martin Luther
 Rich Dad, Poor Dad|by Robert T. Kiyosaki and Sharon Lechter|Kiyosaki Robert T. Lechter Sharon
-Steal Like an Artist: 10 Things Nobody Told You About Being Creative|by Austin Kleon|Kleon Austin
+Steal Like an Artist: 10 Things Nobody Told You About Being Creative|by Austin Kleon|Kleon Austin*
 Shoe Dog: A Memoir by the Creator of NIKE|by Phil Knight|Knight Phil
 The Sixth Extinction: An Unnatural History|by Elizabeth Kolbert|Kolbert Elizabeth
 To Kill a Mockingbird|by Harper Lee|Lee Harper
@@ -122,9 +122,9 @@ Harvey Penick's Little Red Book: Lessons and Teachings From a Lifetime of Golf|b
 And If You Play Golf, You're My Friend: Further Reflections of a Grown Caddie|by Harvey Penick and Bud Shrake|Penick Harvey
 12 Rules for Life: An Antidote to Chaos|by Jordan B. Peterson|Peterson Jordan B.
 Drive: The Surprising Truth About What Motivates Us|by Daniel H. Pink|Pink Daniel H.
-Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values|by Robert M. Pirsig|Pirsig Robert M.
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values|by Robert M. Pirsig|Pirsig Robert M.*
 The Last Days of Socrates|by Plato (translated by Hugh Tredennick)|Plato
-The War of Art|by Steven Pressfield|Pressfield Steven
+The War of Art|by Steven Pressfield|Pressfield Steven*
 The Hoops Whisperer: On the Court and Inside the Heads of Basketball's Best Players|by Idan Ravin|Ravin Idan
 How I Built This|by Guy Raz|Raz Guy
 Letters to a Young Poet|by Rainer Maria Rilke (translated by MD Herter Norton)|Rilke Maria Rainer
@@ -157,7 +157,7 @@ Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future|by Ashlee Vance|V
 Automobiles That Changed History|by Saverio Villa|Villa Saverio
 Why We Sleep: Unlocking the Power of Sleep and Dreams|by Matthew Walker|Walker Matthew
 The Captain Class: A New Theory of Leadership|by Sam Walker|Walker Sam
-Consider the Lobster and Other Essays|by David Foster Wallace|Wallace David Foster
+Consider the Lobster and Other Essays|by David Foster Wallace|Wallace David Foster*
 This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life|by David Foster Wallace|Wallace David Foster
 The Indespensable Calvin and Hobbes|by Bill Watterson|Watterson Bill
 The Authoritative Calvin and Hobbes|by Bill Watterson|Watterson Bill
@@ -185,7 +185,7 @@ Christopher Hitchens: The Last Interview||Hitchens Christopher
 The Mind's I: Fantasies and Reflections on Self and Soul|by Douglas R. Hofstadter and Daniel C. Dennet|Hofstadter Douglas R. Dennet Daniel C.
 User Friendly: How the Hidden Rules of Design are Changing the Way We Live, Work, and Play|by Cliff Kuang with Robert Fabricant|Kuang Cliff Fabricant Robert
 Inverting the Pyramid: The History of Soccer Tactics|by Jonathan Wilson|Wilson Jonathan
-The Alchemist|by Paolo Coelho|Coelho Paolo
+The Alchemist|by Paolo Coelho|Coelho Paolo*
 Vincent van Gogh: A Life in Letters||Van Gogh Vincent
 Building Indestructible Athletes: The Small Things That Make Athletes Great|by Donny Mateaki|Mateaki Donny
 The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology|by Robert Wright|Wright Robert
@@ -221,10 +221,10 @@ Incompleteness: The Proof and Paradox of Kurt Gödel|by Rebecca Goldstein|Goldst
 Kafka on the Shore|by Haruki Murakami|Murakami Haruki
 A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments|by David Foster Wallace|Wallace Foster David*
 The Death of Ivan Ilych and Other Stories|by Leo Tolstoy (translated by Louise and Aylmer Maude)|Tolstoy Leo
-Greenlights|by Matthew McCounaghey|McCounaghey Matthew
+Greenlights|by Matthew McCounaghey|McCounaghey Matthew*
 Oblivion: Stories|by David Foster Wallace|Wallace Foster David
 The Meaning of It All: Thoughts of a Citizen-Scientist|by Richard P. Feynman|Feynman P. Richard
-The End Is Always Near: Apocalyptic Moments, from the Bronze Age Collapse to Nuclear Near Misses|by Dan Carlin|Carlin Dan
+The End Is Always Near: Apocalyptic Moments, from the Bronze Age Collapse to Nuclear Near Misses|by Dan Carlin|Carlin Dan*
 The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution|by Walter Isaacson|Isaacson Walter*
 The Culture Code: The Secrets of Highly Successful Groups|by Daniel Coyle|Coyle Daniel
 Where the Red Fern Grows|by Wilson Rawls|Rawls Wilson
@@ -270,3 +270,10 @@ The Attributes|by Rich Diviney|Diviney Rich
 Murder at the Cathedral|by TS Eliot|Eliot TS
 Martyrs' Day|by Michael Kelly|Kelly Michael
 The Way of the Strangers|by Graeme Wood|Wood Graeme
+Ender's Game|by Orson Scott Card|Card Scott Orson
+Flatland|by Edwin A. Abbott|Abbott A Edwin
+Fiesta: The Sun Also Rises|by Ernest Hemingway|Hemingway Ernest
+How to Lie with Statistics|by Darrell Huff|Huff Darrell
+Letters from a Stoic|by Seneca|Seneca
+The Forgotten Village|by John Steinbeck|Steinbeck John
+Wooden: A Lifetime of Observations and Reflections On and Off the Court|by Coach John Wooden with Steve Jamison|Wooden John Jamison Steve
