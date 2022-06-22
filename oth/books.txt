@@ -262,7 +262,7 @@ Feynman's Tips on Physics||Feynman P. Richard
 Blindfold|by Theo Padnos|Padnos Theo
 Nausea|by Jean-Paul Sartre (translated by Lloyd Alexander)|Sartre Jean-Paul
 My Struggle: Book One|by Karl Ove Knausgård|Knausgård Karl Ove
-Peter and the Shadow Thieves|by Dave Barry and Ridley Pearson|Barry Dave Pearson Ridley
+Peter and the Shadow Thieves|by Dave Barry and Ridley Pearson|Barry Dave Pearson Ridley*
 Peter Pan|by JM Barrie|Barrie JM
 Courage is Calling|by Ryan Holiday|Holiday Ryan
 The Elements of Style|by William Strunk Jr and EB White|Strunk William JR White EB
@@ -280,3 +280,8 @@ Wooden: A Lifetime of Observations and Reflections On and Off the Court|by Coach
 Tatiana|by Martin Cruz Smith|Smith Cruz Martin
 On the Genealogy of Morals|by Friedrich Nietzsche (translated by Walter Kaufmann and RJ Hollingdale)|Nietzsche Friedrich
 Ecce Homo|by Friedrich Nietzsche (translated by Walter Kaufmann)|Nietzsche Friedrich
+Interview with History|by Oriana Fallaci (translated by )|Fallaci Oriana
+The Gift of the Magi and other Tales|by O. Henry|Henry O
+Essays: The First and Second Series|by Ralph Waldo Emerson|Emerson Waldo Ralph
+Dreyer's English|by Benjamin Dreyer|Dreyer Benjamin
+Both Flesh and Not|by David Foster Wallace|Wallace Foster David
