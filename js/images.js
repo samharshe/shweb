@@ -43,7 +43,7 @@ const shuffle = function(array){
     return array
 }
 
-let nums = shuffle(Array.from({length: 100}, (_, i) => i + 1))
+let nums = shuffle(Array.from({length: 104}, (_, i) => i + 1))
 
 let numImagesShowing = 12;
 
