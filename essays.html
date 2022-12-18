@@ -25,7 +25,7 @@
     <nav>
         <ul>
             <li class="navItem"><a href="home.html">Home</a></li>
-            <li id="selectedNav" class="navItem"><a href="essays.html">Essays</a></li>
+            <li class="navItem"><a id="selectedNav" href="essays.html">Essays</a></li>
             <li class="navItem"><a href="about.html">About</a></li>
             <li class="navItem"><a href="resume.html">Résumé</a></li>
             <li id="navDisplayToggle">• • •</li>
@@ -34,32 +34,30 @@
 
     <main id="flex">
         <section id="essaysSection">
-            <ul>
-                <li><h3 class="essaysHeader">Essays</h3></li>
-                <li>
-                    <a href="dummy.html" class="workLink">
-                        <span class="essayTitle">Essay 1</span>
-                        <span class="essaySubtitle">Subtitle for essay 1</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="dummy.html" class="workLink">
-                        <span class="essayTitle">Essay 2</span>
-                        <span class="essaySubtitle">Subtitle for essay 2</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="dummy.html" class="workLink">
-                        <span class="essayTitle">Essay 3</span>
-                        <span class="essaySubtitle">Subtitle for essay 3</span>
-                    </a>
-                </li>
-            
-            </ul>    
+            <h3 id="essaysHeader"><a href="essays.html">Essays</a></h3>
+            <p>
+                <a href="dummy.html" class="essayLink">
+                    <span class="essayTitle">Mental ramblings at Bradly International Airport (BDL): </span>
+                    <span class="essaySubtitle"> thoughts on sharing my thinking in writing.</span>
+                    <span class="essaySubtitle"><sub>16 December 2022.</sub></span>
+                </a>
+            </p>
+            <p>
+                <a href="dummy.html" class="essayLink">
+                    <span class="essayTitle">Climate and arbitrage: </span>
+                    <span class="essaySubtitle">an unoriginal rant.</span>
+                </a>    
+            </p>
+            <p>
+                <a href="dummy.html" class="essayLink">
+                    <span class="essayTitle">The GOAT and "the GOAT":</span>
+                    <span class="essaySubtitle">please clarify your definitions.</span>
+                </a>    
+            </p>
         </section>
     </main>
 
-    <script src="../js/nav.js" async defer></script>
+    <script src="js/nav.js" async defer></script>
 </body>
 
 </html>
