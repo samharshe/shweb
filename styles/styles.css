@@ -35,10 +35,6 @@ h3 {
     margin-block-end: 0;
 }
 
-nav li a {
-    font-weight: normal;
-}
-
 a {
     color: var(--dark);
     font-weight: bold;
@@ -50,7 +46,11 @@ a:hover {
     color: var(--dark-gray);
 }
 
-nav ul li, nav ul li a, h1 a {
+nav li a {
+    font-weight: normal;
+}
+
+nav ul li a, h1 a {
     color: var(--light);
     text-decoration: none;
 }
@@ -84,7 +84,12 @@ img {
 }
 
 section {
-    width: 100%;
+    width: 50vw;
+    padding: .5vw;
+    margin: .5vw;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    box-shadow: var(--gray) 0px 1px 4px 0px;
 }
 
 p {
@@ -93,31 +98,12 @@ p {
     width: 100%;
 }
 
-hr {
-    width: 100%;
-    background-color: var(--grey);
-    border: none;
-    height: 1px;
-}
-
-.row {
-    width: 100%;
-}
-
-.aboutSection {
-    padding: .5vw;
-    margin: .5vw;
-    border: 1px solid transparent;
-    border-radius: 5px;
-    box-shadow: var(--gray) 0px 1px 4px 0px;
+.essaySubtitle {
+    font-weight: normal;
 }
 
 .essayParagraph {
     margin-bottom: .5em;
-}
-
-.essaySubtitle {
-    font-weight: normal;
 }
 
 .essayFooterButton {
@@ -135,16 +121,8 @@ hr {
     transition: 0.4s;
 }
 
-section {
-    max-width: 50vw;
-}
-
 #essaySection {
-    max-width: 75ch;
-    margin: auto;
-    box-shadow: var(--gray) 0px 1px 4px 0px;
     padding: 1em;
-    border-radius: 1em;
 }
 
 #essayTitle {
@@ -191,9 +169,11 @@ section {
 #pdf {
     width: 80%;
     margin-bottom: 2em;
+    box-shadow: var(--gray) 0px 2px 8px 0px;
 }
 
 #navDisplayToggle {
+    color: var(--light);
     display: none;
 }
 
@@ -222,6 +202,10 @@ section {
 }
 
 @media (min-width: 777px) and (max-width: 992px) {
+    section {
+        width: 60vw;
+    }
+
     img {
         width: 30vw;
         height: 30vw;
@@ -238,12 +222,8 @@ section {
         width: 85vw;
     }
 
-    .aboutSection {
-        margin: 1.5vw;
-        padding: 1vw;
-    }
-
-    #essaysSection {
+    section {
+        width: 100vw;
         margin: 1.5vw;
         padding: 1vw;
     }
