@@ -100,14 +100,6 @@ hr {
     box-shadow: var(--shadow) 0px 1px 4px 0px;
 }
 
-.workSection {
-    padding: .5vw;
-    margin: .5vw;
-    border: 1px solid transparent;
-    border-radius: 5px;
-    box-shadow: var(--shadow) 0px 1px 4px 0px;
-}
-
 .essayParagraph {
     margin-bottom: .5em;
 }
@@ -172,6 +164,14 @@ hr {
     font-weight: bold;
 }
 
+#essaysSection {
+    padding: .5vw;
+    margin: .5vw;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    box-shadow: var(--shadow) 0px 1px 4px 0px;
+}
+
 #pdf {
     width: 80%;
     margin-bottom: 2em;
@@ -227,7 +227,7 @@ hr {
         padding: 1vw;
     }
 
-    .workSection {
+    #essaysSection {
         margin: 1.5vw;
         padding: 1vw;
     }
