@@ -112,16 +112,6 @@ hr {
     box-shadow: var(--gray) 0px 1px 4px 0px;
 }
 
-.essayLink  {
-    transition: 0.2s;
-    text-decoration: none;
-}
-
-.essayLink:hover {
-    transition: 0.2s;
-    color: var(--dark-gray);
-}
-
 .essayParagraph {
     margin-bottom: .5em;
 }
@@ -145,16 +135,16 @@ hr {
     transition: 0.4s;
 }
 
+section {
+    max-width: 50vw;
+}
+
 #essaySection {
     max-width: 75ch;
     margin: auto;
     box-shadow: var(--gray) 0px 1px 4px 0px;
     padding: 1em;
     border-radius: 1em;
-}
-
-#essayHeader {
-    margin: .33em;
 }
 
 #essayTitle {
