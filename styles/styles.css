@@ -253,7 +253,7 @@ p {
 
     #morePhotosButton {
         width: var(--size-10);
-        margin: var(--size-2) var(--size-8);
+        margin: var(--size-3) var(--size-8) var(--size-6) var(--size-8);
     }
 }
 
