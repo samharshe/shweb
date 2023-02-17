@@ -1,7 +1,6 @@
 :root {
     --body-font-family: 'Scheherazade', serif;
     --title-font-family: 'Roboto', sans-serif;
-    --body-font-size: 1.2em;
 
     --highlight: #46C8E9;
 
@@ -51,10 +50,11 @@
 }
 
 body {
+    line-height: 1.25;
     background-color: var(--neutral-100);
     color: var(--neutral-1000);
     font-family: var(--body-font-family);
-    font-size: var(--body-font-size);
+    font-size: var(--font-size-5);
     margin: 0;
 }
 
@@ -79,6 +79,11 @@ h2 {
 h3 {
     margin-block-start: 0;
     margin-block-end: 0;
+    padding: var(--size-3) 0;
+}
+
+li {
+    margin: 0 var(--size-4);
 }
 
 a {
@@ -130,19 +135,27 @@ img {
     box-shadow: var(--neutral-400) 0px 2px 8px 0px;
 }
 
-section {
-    width: var(--size-17);
-    padding: var(--size-6);
-    margin: var(--size-4);
+p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    width: 100%;
+}
+
+.galleryCard {
+    display: flex;
+    margin: var(--size-5);
+    flex-direction: column;
+    width: var(--size-14);
     border: var(--size-1) solid transparent;
     border-radius: var(--size-3);
     box-shadow: var(--neutral-400) 0 var(--size-2) var(--size-3) 0;
 }
 
-p {
-    margin-block-start: 0;
-    margin-block-end: 0;
+.galleryImage {
     width: 100%;
+    height: auto;
+    border-radius: var(--size-3) var(--size-3) 0 0;
+    margin: 0;
 }
 
 .essaySubtitle {
@@ -166,6 +179,37 @@ p {
     background-color: var(--neutral-1000);
     color: var(--neutral-100);
     transition: 0.4s;
+}
+
+.aboutSection, #essaySection {
+    width: var(--size-17);
+    padding: var(--size-6);
+    margin: var(--size-4);
+    border: var(--size-1) solid transparent;
+    border-radius: var(--size-3);
+    box-shadow: var(--neutral-400) 0 var(--size-2) var(--size-3) 0;
+}
+
+.galleryCardTitle {
+    margin: var(--size-4) var(--size-4) 0 var(--size-4);
+    padding: 0;
+}
+
+.galleryCardDate {
+    margin: var(--size-2) var(--size-4);
+    padding-bottom: var(--size-2);
+}
+
+.galleryCardDescription {
+    margin: var(--size-4);
+}
+
+#gallerySection {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: var(--size-18);
 }
 
 #essayTitle {
@@ -198,7 +242,7 @@ p {
 }
 
 #selectedNav {
-    border-bottom: var(--size-2) solid var(--neutral-100);
+    border-bottom: var(--size-1) solid var(--neutral-100);
 }
 
 #navDisplayToggle {
