@@ -76,7 +76,7 @@ input[type="radio"]:checked+label+input {
     visibility: visible;;
 } 
 
-input[type="submit"] {
+input[type="submit"].check-submit {
     margin: 0 var(--size-3);
     visibility: hidden;
     width: var(--size-7);
@@ -86,7 +86,7 @@ input[type="submit"] {
     color: var(--green);
 }
 
-input[type="submit"]:hover {
+input[type="submit"].check-submit:hover {
     cursor: pointer;
 }
 
@@ -133,4 +133,16 @@ label {
 
 #good-list li {
     border-left: var(--size-2) solid var(--green);
+}
+
+#purpose-submit {
+    font-size: var(--font-size-5);
+    margin: var(--size-6) auto;
+    border-radius: var(--size-7);
+    border: var(--size-1) solid var(--green);
+    color: var(--green);
+}
+
+#purpose-submit:hover {
+    cursor: pointer; 
 }
