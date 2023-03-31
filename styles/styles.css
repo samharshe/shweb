@@ -166,7 +166,7 @@ p {
 .galleryImage {
     width: 100%;
     height: auto;
-    border-radius: var(--size-3) var(--size-3) 0 0;
+    border-radius: var(--size-3);
     margin: 0;
 }
 
@@ -203,7 +203,7 @@ p {
 }
 
 .galleryCardTitle {
-    margin: var(--size-4) var(--size-4) 0 var(--size-4);
+    margin: var(--size-4);
     padding: 0;
 }
 
